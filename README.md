@@ -4,7 +4,7 @@ This repository contains a C++ implementation of a real-time video-to-ASCII conv
 
 ## Demo Video
 
-[![Demo Video](https://img.shields.io/badge/View-Demo_Video-blue)](https://github.com/Lorraineboza/Converter/blob/db7a782bc42d1d820b3f8ff0a1ca6e7e679cd3c9/1763247751070425.mp4)
+[![Demo Video](https://img.shields.io/badge/View-Demo_Video-blue)](https://github.com/PaulVonDaniels/Converter/blob/main/1763247751070425.mp4)
 
 ## Features
 
